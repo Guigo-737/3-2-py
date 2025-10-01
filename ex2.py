@@ -1,6 +1,6 @@
-def avaliar(nota):
-    if nota > 5:
-        print("passo")
+def avaliar(notarosto):
+    if notarosto > 8:
+        print("bunitin")
     else:
-        print("tenta dinovo")
+        print("fein")
 avaliar(6)
